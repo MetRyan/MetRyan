@@ -8,7 +8,7 @@
 ## 👨‍💻 Experience and Projects
 
 - 💼 Contributed to Bird Farm Shop -  A websites for selling bird, nest and for breeding (ASP.NET Core web API)
-- 💼 Contributed to Student House Membership Cart-  A windows form that provide services for student apartments. , nest and for breeding (ASP.NET Core web API)
+- 💼 Contributed to Student House Membership Cart-  A windows form that provide services for student apartments.
 - 💡 Currently working on  Shoe Store- A website for Shoes (ASP.NET Core web API)
 ## 📝 Project Awareness
 
